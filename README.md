@@ -132,10 +132,10 @@ Cấu hình hiện tại sử dụng package name `com.defaultcompany.puzzleroom
 | Hệ thống | Mô tả |
 | --- | --- |
 | Safe Puzzle | Nhập mã tìm được từ manh mối trong phòng để mở két |
+| UV Clues | Dùng ánh sáng UV để làm lộ chi tiết bị che giấu |
 | Symbol Sequence | Quan sát và nhập đúng chuỗi ký hiệu |
 | Tower of Hanoi | Di chuyển các cuốn sách theo quy tắc Tháp Hà Nội |
 | Power Grid | Lắp cầu chì, nối mạch và kích hoạt các kênh điện đúng thứ tự |
-| UV Clues | Dùng ánh sáng UV để làm lộ chi tiết bị che giấu |
 
 ## Lưu tiến trình
 
